@@ -1,6 +1,6 @@
 # Site for the Mood
 
-Site with funny quotes, better than Reddit. Just follow the [link](https://enibeni.github.io/), and that will make your day.
+Site with funny quotes, better than Reddit. Just follow the [link](https://enibeni.github.io/20_mood/), and that will make your day.
 
 # Project Goals
 
