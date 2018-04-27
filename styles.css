@@ -1,0 +1,20 @@
+body {
+ background-color: #e2e2eb;
+}
+.quote {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+q {
+  font-size: 200%;
+  line-height: 1.5;
+  color: #005c13;
+  font-family: 'Marck Script', cursive;
+}
+#signature {
+  float: right;
+  color: #043007;
+  font-family: 'Cormorant Garamond', serif;
+}

@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Site with funny quotes for you good mood. Just follow the link.
 
 # Project Goals
 
